@@ -1,3 +1,11 @@
+# @ccn/per-env
+## 알리는 말
+[ericclemmons/per-env](https://github.com/ericclemmons/per-env)의 포크입니다.
+불편한 점 때문에 [PR](https://github.com/ericclemmons/per-env/pull/17) 날렸는데 안 받아서 당분간 이큡 npm에 올려서 쓰도록 하겠습니다.
+
+---
+---
+
 # per-env
 
 > Clean up your `package.json` with per-`NODE_ENV` npm scripts.

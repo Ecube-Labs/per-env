@@ -1,5 +1,5 @@
 {
-  "name": "per-env",
+  "name": "@ccn/per-env",
   "version": "1.0.2",
   "description": "Clean up your package.json with per-NODE_ENV npm scripts",
   "bin": {
@@ -37,5 +37,8 @@
   "bugs": {
     "url": "https://github.com/ericclemmons/per-env/issues"
   },
-  "homepage": "https://github.com/ericclemmons/per-env#readme"
+  "homepage": "https://github.com/ericclemmons/per-env#readme",
+  "publishConfig": {
+    "registry": "https://npm.cleancitynetworks.com/"
+  }
 }
